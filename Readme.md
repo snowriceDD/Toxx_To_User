@@ -58,15 +58,15 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
  현재 코로나-19 방역수칙이 해소됨에 따라 외식의 수요와 함께 식자재의 수요가 증가하고 있으며, 식자재의 비용이 큰 상태에서 사용하지 못하고 폐기되는 식자재에 대해 주목할 예정입니다.
 
     
-    !<img src="imgdirec/at3.png" width="500">
+    <img src="imgdirec/at3.png" width="500">
     
     외식업 운영의 어려운 점 - 원형 그래프(*2022 국내외 외식트렌드, aT한국농수산식품유통공사*)
     
-    !<img src="imgdirec/at1.png" width="500">
+    <img src="imgdirec/at1.png" width="500">
     
     물가인상으로 인한 애로사항 그래프(*2022 국내외 외식트렌드, aT한국농수산식품유통공사*)
     
-    !<img src="imgdirec/at2.png" width="500">
+    <img src="imgdirec/at2.png" width="500">
     
     현재 어려움 해결 전략 그래프(*2022 국내외 외식트렌드, aT한국농수산식품유통공사*)
     
@@ -88,7 +88,7 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 1. **서비스 플로우차트**
 
-![Untitled](imgdirec/Untitled%202.png)
+<img src="imgdirec/Untitled%202.png" width="500">
 
 1. **서비스 예상 UI**
 
@@ -98,20 +98,16 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 **Toss Place POS SW view**
 
-![1. 점주 시점의 Toss Place POS SW 초기 UI](imgdirec/Untitled%203.png)
-
+<img src="imgdirec/Untitled%203.png" width="500">
 1. 점주 시점의 Toss Place POS SW 초기 UI
 
-![2. 더보기를 눌러 POS SW의 여러 기능을 확인할 수 있으며, 그 중 오늘의 메뉴 알리기 기능을 사용합니다.](imgdirec/Untitled%204.png)
-
+<img src="imgdirec/Untitled%204.png" width="500">
 2. 더보기를 눌러 POS SW의 여러 기능을 확인할 수 있으며, 그 중 오늘의 메뉴 알리기 기능을 사용합니다.
 
-![3. 오늘의 메뉴 알리기 UI 블록이 나타나고, 목적에 맞추어 할인금액과 수량을 설정하고 알리기 버튼을 누릅니다.](imgdirec/Untitled%205.png)
-
+<img src="imgdirec/Untitled%205.png" width="500">
 3. 오늘의 메뉴 알리기 UI 블록이 나타나고, 목적에 맞추어 할인금액과 수량을 설정하고 알리기 버튼을 누릅니다.
 
-![4. 주변에 있는 손님에게 오늘의 메뉴를 알렸다는 피드백 메세지를 보여줍니다.](imgdirec/Untitled%206.png)
-
+<img src="imgdirec/Untitled%206.png" width="500">
 4. 주변에 있는 손님에게 오늘의 메뉴를 알렸다는 피드백 메세지를 보여줍니다.
 
 ---
@@ -120,28 +116,23 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 ---
 
-![Toss 앱 내 만보기를 이용하고 있던 사용자는 주변에 있는 정보를 확인할 수 있습니다.](imgdirec/Untitled%207.png)
-
+<img src="imgdirec/Untitled%207.png" width="500">
 Toss 앱 내 만보기를 이용하고 있던 사용자는 주변에 있는 정보를 확인할 수 있습니다.
 
-![그 중 식기 아이콘을 눌러 오늘의 메뉴를 확인하게 됩니다. *오늘은 아보카도 샌드위치를 할인하고 있군요!*](imgdirec/Untitled%208.png)
-
+<img src="imgdirec/Untitled%208.png" width="500">
 그 중 식기 아이콘을 눌러 오늘의 메뉴를 확인하게 됩니다. *오늘은 아보카도 샌드위치를 할인하고 있군요!*
 
 ### 경쟁 서비스(라스트오더) 강점 및 약점 분석
 
 ---
 
-![주요 경쟁 서비스](imgdirec/Untitled%201.png)
-
+<img src="imgdirec/Untitled%201.png" width="500">
 주요 경쟁 서비스
 
-![라스트오더 내 주변 목록 UI](imgdirec/Untitled%209.png)
-
+<img src="imgdirec/Untitled%209.png" width="500">
 라스트오더 내 주변 목록 UI
 
-![라스트오더 내 주변 지도 UI](imgdirec/Untitled%2010.png)
-
+<img src="imgdirec/Untitled%2010.png" width="500">
 라스트오더 내 주변 지도 UI
 
 ---
@@ -165,24 +156,20 @@ Toss 앱 내 만보기를 이용하고 있던 사용자는 주변에 있는 정�
 - 주문이 들어온 상황에서, 어플리케이션 업데이트가 이루어지지 않았다면 주문 확인 불가
 - 결론적으로 서비스 관리 미흡으로 빠른 사용자 이탈 중.
 
-![라스트오더 트래픽 그래프(안드로이드, iOS, MOB, PC)(혁신의 숲 제공, 2023)](imgdirec/Untitled%2011.png)
-
+<img src="imgdirec/Untitled%2011.png" width="500">
 라스트오더 트래픽 그래프(안드로이드, iOS, MOB, PC)(혁신의 숲 제공, 2023)
 
-![애플 앱스토어 리뷰 캡쳐(2023.03)](imgdirec/Untitled%2012.png)
-
+<img src="imgdirec/Untitled%2012.png" width="500">
 애플 앱스토어 리뷰 캡쳐(2023.03)
 
-![Play 스토어 리뷰 캡쳐(2023.03)](imgdirec/Untitled%2013.png)
-
+<img src="imgdirec/Untitled%2013.png" width="500">
 Play 스토어 리뷰 캡쳐(2023.03)
 
 ### 경쟁 서비스 대비 강점 및 약점 분석
 
 ---
 
-![Untitled](imgdirec/Untitled%2014.png)
-
+<img src="imgdirec/Untitled%2014.png" width="500">
 **토스에서 서비스했을 때 장점**
 
 - Toss Place의 POS SW를 통해 점포에서 재고 소진 및 단가에 의해 전략적 소비가 필요한 특정 재고 
