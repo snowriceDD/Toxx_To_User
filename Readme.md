@@ -156,13 +156,13 @@ Toss 앱 내 만보기를 이용하고 있던 사용자는 주변에 있는 정�
 - 주문이 들어온 상황에서, 어플리케이션 업데이트가 이루어지지 않았다면 주문 확인 불가
 - 결론적으로 서비스 관리 미흡으로 빠른 사용자 이탈 중.
 
-<img src="imgdirec/Untitled%2011.png" width="500">
+<img src="imgdirec/Untitled%2011.png" width="100%">
 라스트오더 트래픽 그래프(안드로이드, iOS, MOB, PC)(혁신의 숲 제공, 2023)
 
-<img src="imgdirec/Untitled%2012.png" width="500">
+<img src="imgdirec/Untitled%2012.png" width="100%">
 애플 앱스토어 리뷰 캡쳐(2023.03)
 
-<img src="imgdirec/Untitled%2013.png" width="500">
+<img src="imgdirec/Untitled%2013.png" width="100%">
 Play 스토어 리뷰 캡쳐(2023.03)
 
 ### 경쟁 서비스 대비 강점 및 약점 분석
