@@ -27,7 +27,7 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 **여기어때, 야놀자**
 
-<img src="imgdirec/Untitled.png" width="500">
+<img src="imgdirec/Untitled.png" width="150">
 
 
 ---
@@ -38,7 +38,7 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 **라스트오더**
 
-<img src="imgdirec/Untitled%201.png" width="500">
+<img src="imgdirec/Untitled%201.png" width="150">
 
 
 ---
@@ -116,23 +116,23 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 ---
 
-<img src="imgdirec/Untitled%207.png" width="500">
+<img src="imgdirec/Untitled%207.png" width="300">
 Toss 앱 내 만보기를 이용하고 있던 사용자는 주변에 있는 정보를 확인할 수 있습니다.
 
-<img src="imgdirec/Untitled%208.png" width="500">
+<img src="imgdirec/Untitled%208.png" width="300">
 그 중 식기 아이콘을 눌러 오늘의 메뉴를 확인하게 됩니다. *오늘은 아보카도 샌드위치를 할인하고 있군요!*
 
 ### 경쟁 서비스(라스트오더) 강점 및 약점 분석
 
 ---
 
-<img src="imgdirec/Untitled%201.png" width="500">
+<img src="imgdirec/Untitled%201.png" width="150">
 주요 경쟁 서비스
 
-<img src="imgdirec/Untitled%209.png" width="500">
+<img src="imgdirec/Untitled%209.png" width="300">
 라스트오더 내 주변 목록 UI
 
-<img src="imgdirec/Untitled%2010.png" width="500">
+<img src="imgdirec/Untitled%2010.png" width="300">
 라스트오더 내 주변 지도 UI
 
 ---
@@ -169,7 +169,7 @@ Play 스토어 리뷰 캡쳐(2023.03)
 
 ---
 
-<img src="imgdirec/Untitled%2014.png" width="500">
+<img src="imgdirec/Untitled%2014.png" width="150">
 **토스에서 서비스했을 때 장점**
 
 - Toss Place의 POS SW를 통해 점포에서 재고 소진 및 단가에 의해 전략적 소비가 필요한 특정 재고 
