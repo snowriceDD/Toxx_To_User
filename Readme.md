@@ -37,7 +37,7 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 **라스트오더**
 
-![Untitled](imgdirec/Untitled 1.png)
+![Untitled](imgdirec/Untitled%201.png)
 
 ---
 
