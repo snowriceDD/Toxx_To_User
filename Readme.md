@@ -28,6 +28,8 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 **여기어때, 야놀자**
 
 ![Untitled](imgdirec/Untitled.png)
+<img src="imgdirec/Untitled.png" width="500">
+
 
 ---
 
