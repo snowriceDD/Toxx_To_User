@@ -27,7 +27,7 @@ Toxx to users in a diner - 외식업 재고 소진 촉진 서비스
 
 **여기어때, 야놀자**
 
-![Untitled](IT%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%20-%20%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B5%E1%86%BC%20%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A5%2006fd06470c18488faf2d1f68893136a6/Untitled.png)
+![Untitled](imgdirec/Untitled.png)
 
 ---
 
